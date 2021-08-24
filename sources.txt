@@ -1,0 +1,15 @@
+NOAA National Center for Environmental Information https://www.ncdc.noaa.gov/cdo-web/search
+NOAA National Center for Environmental Information https://www.ncei.noaa.gov/products/land-based-station/station-histories
+
+Bureau of Transportation Statistics  https://www.transtats.bts.gov/databases.asp?Z1qr_VQ=E&Z1qr_Qr5p=N8vn6v10&f7owrp6_VQF=D
+	
+Air Carrier Financial : Schedule B-43 Inventory   https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=GEH
+Air Carrier Financial : Schedule P-10 (Employees)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=GDF
+Air Carrier Financial : Schedule P-5.2 (Expenses)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FMK
+Air Carrier Financial : Schedule P-6 (Expenses)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FME
+Air Carrier Financial : Schedule P-7 (Expenses)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FKL
+On-Time : Reporting Carrier On-Time Performance (1987-present)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ
+Aviation Support Tables : Master Coordinate  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FLL
+Air Carrier Summary : T3: U.S. Air Carrier Airport Activity Statistics  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FKG
+Air Carriers : T-100 Domestic Segment (U.S. Carriers)  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FIM
+Aviation Support Tables : Carrier Decode  https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=GDH
