@@ -7,21 +7,27 @@ By: Jen Wadkins
 
 ## Introduction
 
->Premiere Properties, LLC has asked me to develop a housing predictor tool. The market recently has exploded with volatility and unpredictability, with houses going 30k, 50k or even 100k over asking. Realtors need a better tool to price and predict homes. The tool should be easy to both use and understand, and use features that a realtor can input.
+>As the airline with the highest proportion of flight delays, Frontier Airlines has asked me to study the reasons behind flight delay, and determine what if any actions the company can take to reduce their delay impact.
 
 ## Questions
 
-* What are the primary factors influencing housing prices in the King County metro area?
-* Can we effectively use a regression model based system for realtors to determine a proper list price?
-* Is a model-based system more accurate for determining list price than the traditional comps-based system?
-* What easy-to-use features can we add to our model to increase its accuracy?
+* q1?
+* q2?
+* q3?
+* q4?
 
-## Methodology
-* Source data from King County
+## Methodology - OSEMN
+
+### Obtaining the Data
+* Source data from Bureau of Transportation and National Weather Center
+### Scrubbing/Cleaning the Data
 * Clean and prepare data for model processing
+### Exploring/Visualizing the Data
+### Modeling the Data
 * Process data with a variety of models to find the most effective model
 * Provide a "realtor simulator" model to compare with machine learning model
 * Demonstrate ability of model to make new predictions
+### Interpreting the Data
 
 ## Table of Contents
 
