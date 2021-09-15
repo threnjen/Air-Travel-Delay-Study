@@ -1,13 +1,13 @@
 # Air Travel Delay Study (Module 3 Final Project)
 
-For: Frontier Airlines
+For: Federal Bureau of Transportation
 
 By: Jen Wadkins
 
 
 ## Introduction
 
->As the airline with the highest proportion of flight delays, Frontier Airlines has asked me to study the reasons behind flight delay, and determine what if any actions the company can take to reduce their delay impact.
+> The Federal Bureau of Transportation has requested a report on if flight delay can be anticipated with their current collection metrics, with a goal of providing proper resources to individual carriers to assist in their reduction of delays.
 
 ## Questions
 
@@ -19,7 +19,7 @@ By: Jen Wadkins
 ## Methodology - OSEMN
 
 ### Obtaining the Data
-* Source data from Bureau of Transportation and National Weather Center
+* Source data from Bureau of Transportation and National Centers for Environmental Information
 ### Scrubbing/Cleaning the Data
 * Clean and prepare data for model processing
 ### Exploring/Visualizing the Data
