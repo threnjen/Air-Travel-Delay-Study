@@ -119,19 +119,21 @@ Ultimately, predictive quality of the model was very low.
 
 
 > These weak predictions can actually be explicitly visualized and it will make sense why this isn't working. 
-> This visual type here takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics and overall outcome - delay or no delay - are clumped together and then we can visually see how similar outcomes share similar characteristics. 
+> The visual type below takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics and overall outcome - delay or no delay - are clumped together and then we can visually see how similar outcomes share similar characteristics. 
 
 > ![Figure 6 - UMAP - strong set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_example.png)
-> Above we have an unrelated sample problem which is sorting products on a website into categories. In the sample problem you can see strong groupings of similar items.
+
+> Above we have an *unrelated sample problem* which is sorting products on a website into categories. In the sample problem you can see strong groupings of similar items.
 
 
 >  ![Figure 7 - UMAP - our set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_delays_500.png) 
 
-> Here we have our map for specific delay type. I am sure you can notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that conclusively determine any type of delay
+> Above we have our map for specific delay type. We notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that conclusively determine any type of delay. It's no wonder, seeing this visual, that our model struggles to conclusively sort our flights.
 
 
 #### With this information in hand - can the Bureau provide resources to help reduce delay?
-> While innately we might want to think that weather and airport inefficiencies cause a lot of the delay, ultimately CARRIERS cause most of their own delay. That means that if we want to improve delays, they focus internally on improving their own operational inefficiencies, and there isn't much that the bureau can do to help. Simply, the area of carrier delay encapsulates company inefficiencies for which the Bureau of Transportation doesn't have the predictors. The Bureau cannot at this time offer any resources for delay reduction. Recommendations will be for airline-specific actions to improve delay metrics.
+> While innately we might want to think that weather and airport inefficiencies cause a lot of the delay, ultimately CARRIERS cause most of their own delay. That means that if they want to improve delays, they focus internally on improving their own operational inefficiencies, and there isn't much that the bureau can do to help. Simply, the area of carrier delay encapsulates company inefficiencies for which the Bureau of Transportation doesn't have the predictors. The Bureau cannot at this time offer any resources for delay reduction. Recommendations will be for airline-specific actions to improve delay metrics.
+>The largest visible contributors that we do have revolve around departure block and segment number, so minor recommendations can be made on that.
 
 
 
@@ -146,7 +148,7 @@ Ultimately, predictive quality of the model was very low.
 ## Presentation
 [Video - Data Science Module 3 Project]()
 
-[PDF of Presentation]()
+[PDF of Presentation](https://github.com/threnjen/flatiron_module_03_project/blob/main/DSC_Mod_3.pdf)
 
 
 
