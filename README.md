@@ -146,7 +146,7 @@ Ultimately, predictive quality of the model was very low.
 
 
 ## Presentation
-[Video - Data Science Module 3 Project]()
+[Video - Data Science Module 3 Project](https://youtu.be/pITRcrt9wXk)
 
 [PDF of Presentation](https://github.com/threnjen/flatiron_module_03_project/blob/main/DSC_Mod_3.pdf)
 
