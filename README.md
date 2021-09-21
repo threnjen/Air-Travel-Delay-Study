@@ -36,27 +36,24 @@ By: Jen Wadkins
 
 #### [OS_dataset_cleanup.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/OS_dataset_cleanup.ipynb
 
-> * Project Overview
-> * Obtaining our Data
-> * Scrubbing/Cleaning our Data for OVERALL DELAY
-> * Scrubbing/Cleaning our Data for SPECIFIC DELAY
-> * Process Test Set
+* Project Overview
+* Obtaining our Data
+* Scrubbing/Cleaning our Data for OVERALL DELAY
+* Scrubbing/Cleaning our Data for SPECIFIC DELAY
+* Process Test Set
 
 
 #### [EMN_modeling_Overall.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Overall.ipynb
-
-> Project Overview
+* **Project Overview**
     * OSEMN Plan
     * Package Imports    
     * Notebook Functions
 
-
-> Exploring/Visualizing Data
+* **Exploring/Visualizing Data**
     * Visualizations by feature
     * Correlations
 
-
-> Modeling
+* **Modeling**
     * Preprocessing
     * Spot Check Baseline Algorithms
     * Spot Check Imbalanced Algorithms
@@ -65,24 +62,19 @@ By: Jen Wadkins
     * Tuned Base Models
     * Tuned Stacked Model
 
+* **Model Evaluation**
 
-> Model Evaluation
+* **Conclusions and Recommendations**
 
-
-> Conclusions and Recommendations
-
-
-> APPENDIX
-
-
->    * Hyperparameter Tuning
+* **APPENDIX**
+    * Hyperparameter Tuning
 
 #### [EMN_modeling_Specific_Delay.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Specific_Delay.ipynb
 
-> * Project Overview
-> * Exploring/Visualizing Data
-> * Modeling
-> * Model Evaluation
+* Project Overview
+* Exploring/Visualizing Data
+* Modeling
+* Model Evaluation
 
 
 ## Analysis
