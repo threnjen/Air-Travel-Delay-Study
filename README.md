@@ -46,24 +46,24 @@ By: Jen Wadkins
 #### [EMN_modeling_Overall.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Overall.ipynb
 
 > Project Overview
-    * OSEMN Plan
-    * PAckage Imports
-    * Notebook Functions
+>    * OSEMN Plan
+>    * Package Imports
+>    * Notebook Functions
 > Exploring/Visualizing Data
-    * Visualizations by feature
-    * Correlations
+>    * Visualizations by feature
+>    * Correlations
 > Modeling
-    * Preprocessing
-    * Spot Check Baseline Algorithms
-    * Spot Check Imbalanced Algorithms
-    * Feature Selection
-    * Evaluate Spot Checks
-    * Tuned Base Models
-    * Tuned Stacked Model
+>    * Preprocessing
+>    * Spot Check Baseline Algorithms
+>    * Spot Check Imbalanced Algorithms
+>    * Feature Selection
+>    * Evaluate Spot Checks
+>    * Tuned Base Models
+>    * Tuned Stacked Model
 > Model Evaluation
 > Conclusions and Recommendations
 > APPENDIX
-    * Hyperparameter Tuning
+>    * Hyperparameter Tuning
 
 #### [EMN_modeling_Specific_Delay.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Specific_Delay.ipynb
 
@@ -113,12 +113,17 @@ Ultimately, predictive quality of the model was very low.
 > WHY can't we find the delays? For this we go a step deeper into reasons for delay, which is information that we do have, and we saw that our top reason for a delay is a Late Aircraft, meaning the tail number that a flight is preparing to leave on was late to arrive to the airport on its previous segment. This is very consistent with learning that the Departure Block and Segment Numbers are known correlators. But it also creates a kind of self-referential problem where, and this is really common sense, delays cause more delays. A flight comes in late and all subsequent flights that day will probably be late as well. And it turns out that this is really difficult to anticipate.
 > ![Figure 5 - Confusion Matrix](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/delay_type.png)
 
-> These weak predictions can actually be explicitly visualized and it will make sense why this isn't working. 
->  ![Figure 7 - UMAP - our set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_delays_500.png) ![Figure 6 - UMAP - strong set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_example.png)
 
-> This visual here takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics and overall outcome - delay or no delay - are clumped together and then we can visually see how similar outcomes share similar characteristics. 
-On the left we have our map for specific delay type. On the right we have an unrelated sample problem which is sorting products on a website into categories. 
-In the sample problem you can see strong groupings of similar items. I am sure you can notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that conclusively determine any type of delay
+> These weak predictions can actually be explicitly visualized and it will make sense why this isn't working. 
+> This visual type here takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics and overall outcome - delay or no delay - are clumped together and then we can visually see how similar outcomes share similar characteristics. 
+
+> ![Figure 6 - UMAP - strong set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_example.png)
+> Above we have an unrelated sample problem which is sorting products on a website into categories. In the sample problem you can see strong groupings of similar items.
+
+
+>  ![Figure 7 - UMAP - our set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_delays_500.png) 
+
+> Here we have our map for specific delay type. I am sure you can notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that conclusively determine any type of delay
 
 
 #### With this information in hand - can the Bureau provide resources to help reduce delay?
