@@ -46,23 +46,35 @@ By: Jen Wadkins
 #### [EMN_modeling_Overall.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Overall.ipynb
 
 > Project Overview
->    * OSEMN Plan
->    * Package Imports
->    * Notebook Functions
+    * OSEMN Plan
+    * Package Imports    
+    * Notebook Functions
+
+
 > Exploring/Visualizing Data
->    * Visualizations by feature
->    * Correlations
+    * Visualizations by feature
+    * Correlations
+
+
 > Modeling
->    * Preprocessing
->    * Spot Check Baseline Algorithms
->    * Spot Check Imbalanced Algorithms
->    * Feature Selection
->    * Evaluate Spot Checks
->    * Tuned Base Models
->    * Tuned Stacked Model
+    * Preprocessing
+    * Spot Check Baseline Algorithms
+    * Spot Check Imbalanced Algorithms
+    * Feature Selection
+    * Evaluate Spot Checks
+    * Tuned Base Models
+    * Tuned Stacked Model
+
+
 > Model Evaluation
+
+
 > Conclusions and Recommendations
+
+
 > APPENDIX
+
+
 >    * Hyperparameter Tuning
 
 #### [EMN_modeling_Specific_Delay.ipynb](https://github.com/threnjen/flatiron_module_03_project/blob/master/EMN_modeling_Specific_Delay.ipynb
