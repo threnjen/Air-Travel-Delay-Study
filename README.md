@@ -119,7 +119,7 @@ Ultimately, predictive quality of the model was very low.
 
 
 > These weak predictions can actually be explicitly visualized and it will make sense why this isn't working. 
-> The visual type below takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics and overall outcome - delay or no delay - are clumped together and then we can visually see how similar outcomes share similar characteristics. 
+> The visual type below takes all of our different possible predictive elements and makes them into a kind of 2D map where data that is similar in characteristics are clumped together and then we can visually see how similar outcomes share similar characteristics. 
 
 > ![Figure 6 - UMAP - strong set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_example.png)
 
@@ -128,7 +128,7 @@ Ultimately, predictive quality of the model was very low.
 
 >  ![Figure 7 - UMAP - our set](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/umap_delays_500.png) 
 
-> Above we have our map for specific delay type. We notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that conclusively determine any type of delay. It's no wonder, seeing this visual, that our model struggles to conclusively sort our flights.
+> Above we have our map for specific delay type. We notice that in our problem, the entire map looks like a paint spatter. The delay problem has not been solved by us - even with all of our features there are not strong groupings of like-features that help conclusively determine any type of delay. It's no wonder, seeing this visual, that our model struggles to conclusively sort our flights.
 
 
 #### With this information in hand - can the Bureau provide resources to help reduce delay?
