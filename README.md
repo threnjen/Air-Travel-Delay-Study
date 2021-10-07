@@ -9,6 +9,14 @@ By: Jen Wadkins
 
 > The Federal Bureau of Transportation has requested a report on if flight delay can be anticipated with their current collection metrics, with a goal of providing proper informational resources to individual carriers to assist in their reduction of delays.
 
+## Skills Presented
+
+* Data Cleaning
+* Exploratory Data Analyis
+* Data Visualization
+* Feature Selection and Engineering
+* Model Selection and Tuning
+
 ## Questions
 
 * Can we anticipate a delay with the Bureau's current collection metrics?
