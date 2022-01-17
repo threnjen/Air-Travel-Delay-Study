@@ -8,6 +8,8 @@ By: Jen Wadkins
 
 > The Federal Bureau of Transportation has requested a report on if flight delay can be anticipated with their current collection metrics, with a goal of providing proper informational resources to individual carriers to assist in their reduction of delays.
 
+
+
 ## Skills Presented
 
 * Data Cleaning
@@ -83,6 +85,11 @@ By: Jen Wadkins
 * Modeling
 * Model Evaluation
 
+## Data Introduction
+
+This dataset comprises the extraction and cleaning of 25 datasets from the Federal Bureau of Transportation Statistics and the NOAA National Center for Environmental Information. The data covers all domestic flights for the year of 2019 and their associated delay. The final data comprised over 6 million rows of flight data.
+
+The goal of the project was to anticipate flight delay using the current collection metrics. If flight can be predicted, carriers may be able to identify specific areas of improvement to operational efficiency.
 
 ## Analysis
 
