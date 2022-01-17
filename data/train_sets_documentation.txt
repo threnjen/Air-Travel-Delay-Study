@@ -1,8 +1,8 @@
 MONTH:				Month
 DAY_OF_WEEK:			Day of Week
 DEP_DEL15: 			TARGET Binary of a departure delay over 15 minutes (1 is yes)
-DISTANCE_GROUP:			Distance group to be flown by departing aircraft
 DEP_BLOCK:			Departure block
+DISTANCE_GROUP:			Distance group to be flown by departing aircraft
 SEGMENT_NUMBER:			The segment that this tail number is on for the day
 CONCURRENT_FLIGHTS:		Concurrent flights leaving from the airport in the same departure block
 NUMBER_OF_SEATS:		Number of seats on the aircraft
@@ -24,3 +24,9 @@ SNOW:				Inches of snowfall for day
 SNWD:				Inches of snow on ground for day
 TMAX:				Max temperature for day
 AWND:				Max wind speed for day
+
+Encoded fields:
+CARRIER_HISTORICAL		Mean carrier delay by month
+DEP_AIRPORT_HISTORICAL		Mean departing airport delay by month
+DAY_HISTORICAL			Mean day of week delay by month
+DEP_BLOCK_HIST			Mean departure block delay by month
