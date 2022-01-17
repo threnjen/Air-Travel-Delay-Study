@@ -1,5 +1,4 @@
-# Air Travel Delay Study (Module 3 Final Project)
-
+# Air Travel Delay Study
 For: Federal Bureau of Transportation
 
 By: Jen Wadkins
@@ -8,6 +7,14 @@ By: Jen Wadkins
 ## Introduction
 
 > The Federal Bureau of Transportation has requested a report on if flight delay can be anticipated with their current collection metrics, with a goal of providing proper informational resources to individual carriers to assist in their reduction of delays.
+
+## Skills Presented
+
+* Data Cleaning
+* Exploratory Data Analyis
+* Data Visualization
+* Feature Selection and Engineering
+* Model Selection and Tuning
 
 ## Questions
 
