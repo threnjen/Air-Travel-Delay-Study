@@ -89,6 +89,8 @@ By: Jen Wadkins
 
 This dataset comprises the extraction and cleaning of 25 datasets from the Federal Bureau of Transportation Statistics and the NOAA National Center for Environmental Information. The data covers all domestic flights for the year of 2019 and their associated delay. The final data comprised over 6 million rows of flight data.
 
+The full dataset is now available on Kaggle: [2019 Airline Delays w/Weather and Airport Detail](https://www.kaggle.com/threnjen/2019-airline-delays-and-cancellations)
+
 The goal of the project was to anticipate flight delay using the current collection metrics. If flight can be predicted, carriers may be able to identify specific areas of improvement to operational efficiency.
 
 ## Analysis
