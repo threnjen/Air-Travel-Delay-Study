@@ -121,7 +121,7 @@ Ultimately, predictive quality of the model was very low.
 
 
 > Let's take a quick look at Departure Block. This chart is organized from low to high delay per block and although it's not in order of time you can see along that the bottom that it pretty generally follows time of day. This second block here is a large overnight block that ends just before morning and is technically part of the early morning, and you can see as delays increase that the time is generally getting later. There is a pretty clear relationship here, which is why this shows up as the most strongly correlated predictor.
->![Figure 2 - Departure Block Delay](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/departure_block.png)
+>![Figure 2 - Departure Block Delay](https://github.com/threnjen/flatiron_module_03_project/blob/main/images/dep_delay.png)
 
 #### Can we anticipate a delay with the Bureau's current collection metrics?
 
